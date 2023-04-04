@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://tuseefahmed786.github.io/myportfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://tuseefahmed786.github.io/myportfolio/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tuseef-ahmed-286a9521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tuseef-ahmed-286a9521b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tuseef-ahmed-286a9521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tuseef-ahmed-286a9521b/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://tuseefahmed786.github.io/newproject/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://tuseefahmed786.github.io/newproject/" height="30" width="40" /></a>
 </p>
 
