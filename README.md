@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tuseef Ahmed</h1>
-<h3 align="center">A React J'S Developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuseefahmed786&label=Profile%20views&color=0e75b6&style=flat" alt="tuseefahmed786" /> </p>
 
 
 - 🔭 I’m currently working on [Walmart Clone](https://tuseefahmed786.github.io/newreactapps/)
-- 🔭 I've Completed some Projects [Agency Project](https://tuseefahmed786.github.io/newproject/)
-
+- 🔭 I've completed some projects [Agency Project](https://tuseefahmed786.github.io/newproject/) & [Portfolio](https://tuseefahmed786.github.io/myPortfolio/) & [Bank] 
+(https://tuseefahmed786.github.io/bankwebsite.github.io/)
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **JavaScript and React J'S**
