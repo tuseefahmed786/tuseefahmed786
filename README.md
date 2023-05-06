@@ -5,6 +5,7 @@
 
 
 - 🔭 I’m currently working on [Walmart Clone](https://tuseefahmed786.github.io/newreactapps/)
+- 🔭 I've Completed some Projects [Agency Project](https://tuseefahmed786.github.io/newproject/)
 
 - 🌱 I’m currently learning **React Native**
 
