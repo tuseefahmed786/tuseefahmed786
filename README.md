@@ -5,9 +5,10 @@
 
 
 - 🔭 I’m currently working on **[adchitects](https://tuseefahmed786.github.io/adchitects/)**
-- 🔭 I've completed some projects **[Agency Project](https://tuseefahmed786.github.io/newproject/)** & **[Portfolio](https://tuseefahmed786.github.io/myPortfolio/)** & **[Bank](https://tuseefahmed786.github.io/bankwebsite.github.io/)**
-- 🌱 I’m currently learning **Next j.s
-**
+- 🔭 I've completed some projects **[Agency Project](https://tuseefahmed786.github.io/newproject/)** & **[Portfolio](https://tuseefahmed786.github.io/myPortfolio/)** & **[Bank](https://tuseefahmed786.github.io/bankwebsite.github.io/)** & **[Walmart Clone](https://tuseefahmed786.github.io/newreactapps/)**
+
+- 🌱 I’m currently learning **Next j.s**
+
 
 
 
