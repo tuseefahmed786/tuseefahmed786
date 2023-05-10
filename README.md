@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tuseef Ahmed</h1>
+<h1 align="center">Hi, I'm Tuseef Ahmed</h1>
 <h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuseefahmed786&label=Profile%20views&color=0e75b6&style=flat" alt="tuseefahmed786" /> </p>
 
 
-- 🔭 I’m currently working on **[Walmart Clone](https://tuseefahmed786.github.io/newreactapps/)**
-- 🔭 I've completed some projects **[Agency Project](https://tuseefahmed786.github.io/newproject/)** & **[Portfolio](https://tuseefahmed786.github.io/myPortfolio/)** & **[Bank](https://tuseefahmed786.github.io/bankwebsite.github.io/)** & **[adchitects](https://tuseefahmed786.github.io/adchitects/)**
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **[adchitects](https://tuseefahmed786.github.io/adchitects/)**
+- 🔭 I've completed some projects **[Agency Project](https://tuseefahmed786.github.io/newproject/)** & **[Portfolio](https://tuseefahmed786.github.io/myPortfolio/)** & **[Bank](https://tuseefahmed786.github.io/bankwebsite.github.io/)**
+- 🌱 I’m currently learning **Next j.s
+**
+
+
 
 - 💬 Ask me about **JavaScript and React J'S**
 
