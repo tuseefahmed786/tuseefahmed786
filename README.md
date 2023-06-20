@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuseefahmed786&label=Profile%20views&color=0e75b6&style=flat" alt="tuseefahmed786" /> </p>
 
 
-- 🔭 I’m currently working on **[InvoZone Clone](https://tuseefahmed786.github.io/adchitects/)**
+- 🔭 I’m currently working on **[InvoZone Clone](https://tuseefahmed786.github.io/invoZone/)**
 - 🔭 I've completed some projects **[Agency Project](https://tuseefahmed786.github.io/newproject/)** & **[Portfolio](https://tuseefahmed786.github.io/myPortfolio/)** & **[Bank](https://tuseefahmed786.github.io/bankwebsite.github.io/)** & **[Walmart Clone](https://tuseefahmed786.github.io/newreactapps/)** & **[Adchitects](https://tuseefahmed786.github.io/adchitects/)**
 
 - 🌱 I’m currently learning **Next j.s**
