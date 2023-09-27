@@ -6,7 +6,7 @@
 
 - 🔭 I've completed some projects **[Agency Project](https://tuseefahmed786.github.io/newproject/)** & **[Portfolio](https://tuseefahmed786.github.io/myPortfolio/)** & **[Walmart Clone](https://tuseefahmed786.github.io/newreactapps/)** & **[Adchitects](https://tuseefahmed786.github.io/adchitects/)**
 
-- 🌱 I’m currently learning **React j.s**
+- 🌱 I’m currently learning **React Native**
 
 
 
