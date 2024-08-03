@@ -12,7 +12,7 @@
 
 
 - 💬 Ask me about **JavaScript and React J'S**
-- 📫 How to reach me **tuseefahmed8880@gmail.com**
+- 📫 How to reach me **atuseef261@gmail.com | tuseefahmed8880@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
