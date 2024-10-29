@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Tuseef Ahmed</h1> <h3 align="center">Front-End Developer | React.js | Node.js | MERN Stack</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuseefahmed786&label=Profile%20views&color=0e75b6&style=flat" alt="tuseefahmed786" /> </p>
 🔭 I’ve developed several projects: PDF Converter, AL-Kafeel Website, Portfolio, Walmart Clone, Adchitects, and Agency Website.
 
-🌱 Currently, I’m building Cloud Menu (https://emenu-sandy.vercel.app/), a SaaS platform for restaurant owners to create and manage digital menus. This project utilizes the MERN stack, including features like category management, product CRUD, and cloud storage with Cloudinary.
+🌱 Currently, I’m building Cloud Menu, a SaaS platform for restaurant owners to create and manage digital menus. This project utilizes the MERN stack, including features like category management, product CRUD, and cloud storage with Cloudinary.
 
 🛠️ Additionally, I've created a React UI component library, My Own AK UI Library.
 
