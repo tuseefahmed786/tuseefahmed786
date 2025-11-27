@@ -10,6 +10,4 @@
 
 🛠️ Tech Stack: Node.js, TypeScript, Express.js, React.js, Python, Next.js, OpenAI API, Docker
 
-💬 Ask me about JavaScript, React.js, Node.js, TypeScript, and AI integrations.
-
 📫 How to reach me: atuseef261@gmail.com | [LinkedIn](your-linkedin-url) |
