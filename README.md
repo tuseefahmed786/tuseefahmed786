@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tuseef Ahmed</h1>
-<h3 align="center">Full-Stack Developer | React.js | Node.js | TypeScript | MERN Stack</h3>
+<h3 align="center">Full-Stack Developer | JAVA | Python | React.js | Node.js | TypeScript | </h3>
 
 🔭 Currently, I'm building:
 
