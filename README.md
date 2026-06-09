@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tuseef Ahmed</h1>
-<h3 align="center">Full-Stack Developer | JAVA | Python | React.js | Node.js | TypeScript | </h3>
+<h3 align="center">Full-Stack Developer | JAVA | Python | React.js | Node.js | TypeScript | Docker </h3>
 
 🔭 Currently, I'm building:
 
@@ -7,7 +7,5 @@
    - **[React Design System Library](https://github.com/tuseefahmed786/react-design-system)** - Reusable UI components
 
 🌱 Passionate about building scalable applications, AI integrations, and developer tools.
-
-🛠️ Tech Stack: Node.js, TypeScript, Express.js, React.js, Python, Next.js, OpenAI API, Docker
 
 📫 How to reach me: atuseef261@gmail.com | [LinkedIn](your-linkedin-url) |
